@@ -1,6 +1,13 @@
 # GAN-Lottery-Ticket-Generator
 Will create realistic tickets based of existing tickets.
 
+GAN- 2 ways:
+
+text->Image ----- Game Name to automatic Image creation
+
+Image->Image ----- Will create Image from Images
+
+
 Some resources to help guide me in my GAN network exploration. I like this since seems easy to follow. Only thing missing i see in other projects is a visiual representaion of training and results like...
 
 - https://thiseyedoesnotexist.com/methodology/
