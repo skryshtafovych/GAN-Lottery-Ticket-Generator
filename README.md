@@ -1,6 +1,14 @@
 # GAN-Lottery-Ticket-Generator
 Will create realistic tickets based of existing tickets.
 
+
+TO-DO:
+- Get training Data
+- Clean training Data
+- Train Model
+
+
+
 GAN- 2 ways:
 
 text->Image ----- Game Name to automatic Image creation
