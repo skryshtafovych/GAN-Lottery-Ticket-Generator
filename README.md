@@ -2,7 +2,7 @@
 Will create realistic tickets based of existing tickets.
 
 
-TO-DO:
+# TO-DO:
 - Get training Data
 - Clean training Data
 - Train Model
