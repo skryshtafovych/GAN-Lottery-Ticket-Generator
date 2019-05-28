@@ -8,6 +8,10 @@ Will create realistic tickets based of existing tickets.
 - Train Model
 
 
+Good Resources:
+https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap
+
+
 
 GAN- 2 ways:
 
