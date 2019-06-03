@@ -8,6 +8,10 @@ Will create realistic tickets based of existing tickets.
 - Train Model
 
 
+Here is Current Sample of what the GAN Network can achieve with Image INfill.
+
+
+
 Good Resources:
 https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap
 
